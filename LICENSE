@@ -1,0 +1,70 @@
+Substrate for Apeiron Intelligence
+Noncommercial Learning License
+
+Copyright (c) 2026 oneES1 / haipaocai (海泡菜)
+
+1. Scope
+
+This license applies to the versions of the following documents published
+with this license:
+
+- -理论-/哲学观指导.md
+- -理论-/可变公理设想.md
+- -理论-/压缩物.md
+
+It also applies to any material expressly designated as subject to this
+license. Materials bearing a separate license are governed by that license.
+All rights in other materials are reserved by their respective rights holders.
+Unpublished designs, implementations, and other materials are outside the
+scope of this license. Earlier releases remain subject to the terms under
+which they were distributed.
+
+2. Permitted learning activities
+
+Subject to this license, anyone may read, copy, analyze, and modify the
+licensed materials for personal, noncommercial learning. You may reproduce
+and test them in an isolated environment under your control. You may share
+the materials, excerpts, translations, adaptations, and experimental results
+for noncommercial learning and exchange, subject to Section 4.
+
+3. Commercial use and deployment
+
+Commercial use requires prior written permission from the rights holder.
+This includes selling the materials, providing paid deliverables, using the
+materials for client work or internal business operations, integrating them
+into products, and using them for commercial promotion or fundraising.
+These restrictions apply whether or not end users are charged.
+
+Permission to run any licensed implementation is limited to personal learning
+experiments. Prior written permission is required to use it in production or
+in an operational workflow, process real user or business data, give third
+parties access to a running instance or service, or provide a shared runtime
+for an organization. These limits also apply to services offered free of charge.
+
+4. Attribution and intellectual provenance
+
+When sharing licensed materials or adaptations under this license, you must
+prominently identify the original author, give the original source and the
+version used, retain the copyright and license notices, and identify your
+changes. If you share or build on a translation, adaptation, or fork, retain
+the original attribution and source and identify the version you used directly.
+
+When publicly presenting work that actually draws on this project's ideas,
+methods, or design, identify the specific contribution you drew on, cite the
+source material and version, and explain what your own work changes or adds.
+Place the citation where that contribution is discussed. A general
+acknowledgment that leaves the contribution unidentified is insufficient.
+Rewriting the code, changing the technology stack, or renaming the project
+does not change the source of a design you actually adopted.
+
+Do not present the original author's contributions as your own independent
+work or remove or obscure an existing attribution. Do not claim or imply
+that the original author participates in, endorses, or supports a later
+project, product, or fundraising activity without prior written permission.
+
+5. Reservation of rights
+
+Uses beyond the permissions expressly granted here require separate written
+permission from the rights holder. This license preserves rights conferred
+by applicable law and permissions that GitHub's Terms of Service grant for
+viewing and forking within GitHub.
